@@ -1,5 +1,63 @@
 {
   "schema_version": 1,
-  "last_run": null,
-  "vacancies": []
+  "last_run": "2026-08-30",
+  "vacancies": [
+    {
+      "tracking_id": "eoap-pafou-dioikitikos-leitourgos-20260830",
+      "employer": "Επαρχιακός Οργανισμός Αυτοδιοίκησης Πάφου (Pafos District Local Government Organisation / ΕΟΑ Πάφου)",
+      "title": "Διοικητικός Λειτουργός (Administrative Officer) — 3 θέσεις",
+      "location": "Paphos city",
+      "location_tier": "Paphos city",
+      "source_url": "https://www.carierista.com/en/jobs/96542/eparkhiakos-orghanismos-autodiikisis-pafoy-3-theseis-dioikitikou-leitoyrghou",
+      "official_source_url": "https://eoap.org.cy/careers/",
+      "publication_date": null,
+      "deadline": null,
+      "first_seen": "2026-08-30",
+      "last_checked": "2026-08-30",
+      "eligibility": "likely_eligible",
+      "match_score": 72,
+      "status": "new",
+      "salary": "Combined salary scales A8–A10–A11 as stated in the posting: A8 €24,500–€37,667; A10 €34,284–€47,396; A11 €40,525–€53,637",
+      "exam_info": null,
+      "notes": "Semi-government/local-government body seated in Paphos. Exact required degree field and application deadline could not be confirmed — official source (eoap.org.cy) was not directly reachable in this environment (network egress restriction), so this record is built from a third-party listing (Carierista) summary. Verify current status and deadline directly at eoap.org.cy or by phone (26 818202) before relying on it."
+    },
+    {
+      "tracking_id": "amc-nicosia-medical-laboratory-scientist-20260830",
+      "employer": "American Medical Center / American Heart Institute",
+      "title": "Medical Laboratory Scientist",
+      "location": "Nicosia",
+      "location_tier": "Other private (exceptional — direct profile match)",
+      "source_url": "https://www.anergosjobs.com/374444-american-medical-center-%CE%B6%CE%B7%CF%84%CE%B5%CE%AF%CF%84%CE%B1%CE%B9-medical-laboratory-scientist/",
+      "official_source_url": null,
+      "publication_date": null,
+      "deadline": null,
+      "first_seen": "2026-08-30",
+      "last_checked": "2026-08-30",
+      "eligibility": "likely_eligible",
+      "match_score": 58,
+      "status": "new",
+      "salary": null,
+      "exam_info": null,
+      "notes": "Stated requirements: BSc in Medical Laboratory Sciences or Biomedical Sciences (direct match); specialization in Biochemistry/Haematology/Immunology/Microbiology an advantage; minimum 2 years' experience in an accredited clinical laboratory (could not confirm against candidate's actual work history); fluent English and Greek. Apply via AnergosJobs.com referencing 'MLS_26' in the subject line. Private sector, Nicosia — included despite low location-tier score because of the very direct degree match; ordinarily a Nicosia private listing would be logged low-priority only."
+    },
+    {
+      "tracking_id": "inex-paphos-qa-manager-20260830",
+      "employer": "INEX Group (real estate development)",
+      "title": "Quality Assurance Manager",
+      "location": "Paphos city",
+      "location_tier": "Paphos city",
+      "source_url": "https://www.cypruswork.com/job/92533/quality-assurance-manager/",
+      "official_source_url": "https://inex-group.com/career",
+      "publication_date": null,
+      "deadline": null,
+      "first_seen": "2026-08-30",
+      "last_checked": "2026-08-30",
+      "eligibility": "not_eligible",
+      "match_score": 38,
+      "status": "logged_low_priority",
+      "salary": null,
+      "exam_info": null,
+      "notes": "Excluded from Top Matches: role explicitly requires 3+ years' quality control/assurance experience in construction, which is a domain mismatch with the candidate's biomedical/lab + MBA background. Logged only because the location (Paphos city) is high-priority; not recommended as a genuine fit."
+    }
+  ]
 }
