@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run": "2026-08-30",
+  "last_run": "2026-08-31",
   "vacancies": [
     {
       "tracking_id": "eoap-pafou-dioikitikos-leitourgos-20260830",
@@ -13,10 +13,10 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-30",
-      "last_checked": "2026-08-30",
+      "last_checked": "2026-08-31",
       "eligibility": "likely_eligible",
       "match_score": 72,
-      "status": "new",
+      "status": "open",
       "salary": "Combined salary scales A8–A10–A11 as stated in the posting: A8 €24,500–€37,667; A10 €34,284–€47,396; A11 €40,525–€53,637",
       "exam_info": null,
       "notes": "Semi-government/local-government body seated in Paphos. Exact required degree field and application deadline could not be confirmed — official source (eoap.org.cy) was not directly reachable in this environment (network egress restriction), so this record is built from a third-party listing (Carierista) summary. Verify current status and deadline directly at eoap.org.cy or by phone (26 818202) before relying on it."
@@ -30,15 +30,15 @@
       "source_url": "https://www.anergosjobs.com/374444-american-medical-center-%CE%B6%CE%B7%CF%84%CE%B5%CE%AF%CF%84%CE%B1%CE%B9-medical-laboratory-scientist/",
       "official_source_url": null,
       "publication_date": null,
-      "deadline": null,
+      "deadline": "2026-08-26",
       "first_seen": "2026-08-30",
-      "last_checked": "2026-08-30",
+      "last_checked": "2026-08-31",
       "eligibility": "likely_eligible",
       "match_score": 58,
-      "status": "new",
+      "status": "closed",
       "salary": null,
       "exam_info": null,
-      "notes": "Stated requirements: BSc in Medical Laboratory Sciences or Biomedical Sciences (direct match); specialization in Biochemistry/Haematology/Immunology/Microbiology an advantage; minimum 2 years' experience in an accredited clinical laboratory (could not confirm against candidate's actual work history); fluent English and Greek. Apply via AnergosJobs.com referencing 'MLS_26' in the subject line. Private sector, Nicosia — included despite low location-tier score because of the very direct degree match; ordinarily a Nicosia private listing would be logged low-priority only."
+      "notes": "Stated requirements: BSc in Medical Laboratory Sciences or Biomedical Sciences (direct match); specialization in Biochemistry/Haematology/Immunology/Microbiology an advantage; minimum 2 years' experience in an accredited clinical laboratory (could not confirm against candidate's actual work history); fluent English and Greek. Apply via AnergosJobs.com referencing 'MLS_26' in the subject line. Private sector, Nicosia — included despite low location-tier score because of the very direct degree match; ordinarily a Nicosia private listing would be logged low-priority only. UPDATE 2026-08-31: a search-indexed re-listing of this same role (a different AnergosJobs post ID, same employer/title/location) states an application deadline of Wed 26 Aug 2026 23:19 — already past as of this run, so marked closed. A similar role may repost; worth a fresh check next run rather than treating AMC as permanently ruled out."
     },
     {
       "tracking_id": "inex-paphos-qa-manager-20260830",
@@ -51,13 +51,32 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-30",
-      "last_checked": "2026-08-30",
+      "last_checked": "2026-08-31",
       "eligibility": "not_eligible",
       "match_score": 38,
       "status": "logged_low_priority",
       "salary": null,
       "exam_info": null,
       "notes": "Excluded from Top Matches: role explicitly requires 3+ years' quality control/assurance experience in construction, which is a domain mismatch with the candidate's biomedical/lab + MBA background. Logged only because the location (Paphos city) is high-priority; not recommended as a genuine fit."
+    },
+    {
+      "tracking_id": "polis-chrysochous-dimotikos-mixanikos-20260831",
+      "employer": "Δήμος Πόλεως Χρυσοχούς (Municipality of Polis Chrysochous)",
+      "title": "Δημοτικός Μηχανικός (Municipal Engineer) — permanent position",
+      "location": "Polis Chrysochous",
+      "location_tier": "Polis Chrysochous",
+      "source_url": "https://www.polis.org.cy/el/news/prokhriksi-thesis-dimotikou-mixanikou",
+      "official_source_url": "https://www.polis.org.cy/el/announcements",
+      "publication_date": null,
+      "deadline": null,
+      "first_seen": "2026-08-31",
+      "last_checked": "2026-08-31",
+      "eligibility": "not_eligible",
+      "match_score": 46,
+      "status": "logged_low_priority",
+      "salary": null,
+      "exam_info": null,
+      "notes": "First vacancy found at Polis Chrysochous (top-priority location) since tracking began, but it requires a civil/municipal engineering qualification — a clear domain mismatch with a Biomedical Science + MBA background. Logged for transparency, not recommended. Publication date and deadline could not be confirmed — official site (polis.org.cy) not directly fetchable in this environment; found via search-indexed content."
     }
   ]
 }
