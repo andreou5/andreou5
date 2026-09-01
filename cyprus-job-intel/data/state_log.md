@@ -5,6 +5,30 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-01 — Daily run
+
+- **No changes.** All 4 tracked vacancies re-checked (ΕΟΑ Πάφου
+  Administrative Officer, AMC Medical Laboratory Scientist, INEX QA
+  Manager, Polis Chrysochous Municipal Engineer) — same status as
+  yesterday for all of them. `last_checked` updated to 2026-09-01 on
+  every record.
+- ΕΟΑ Πάφου deadline is now unconfirmed for the 3rd consecutive run —
+  still recommend calling them directly (26 818202 / 26 818276) rather
+  than waiting on this tracker.
+- AMC Medical Laboratory Scientist re-confirmed closed (deadline 26 Aug
+  2026 already passed); no repost found yet.
+- No new vacancy found at any tracked location this run, including
+  Polis Chrysochous.
+- PSC search surfaced a "Senior Administrative Officer" / "Social
+  Insurance Officer" / "Archives and Communications Officer" public-service
+  announcement, but it appears to be the same batch first indexed around
+  13 May 2026 with no clear current-run confirmation and no stated
+  location — not added as a new record; will re-check with a more
+  targeted search next run rather than log stale/ambiguous data.
+- Same source-access limitations persist (network egress policy).
+
+---
+
 ## 2026-08-31 — Daily run
 
 - **New (1):**
