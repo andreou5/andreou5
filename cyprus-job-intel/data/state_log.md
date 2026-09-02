@@ -5,6 +5,24 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-02 — Daily run
+
+- **No changes.** All 4 tracked vacancies re-checked, same status as
+  yesterday for all of them. `last_checked` updated to 2026-09-02.
+- ΕΟΑ Πάφου deadline unconfirmed for the 4th consecutive run — one search
+  result surfaced a deadline of 28/07/2025, but the source itself flagged
+  that this was for a *different* EOAP position, not the current
+  Administrative Officer posting, so it was correctly not applied here.
+- OKYPY: another physician vacancy found (deadline 4/9/2026) — still not a
+  lab-technologist fit, not logged, consistent with prior runs.
+- CYTA: found Store Operator (retail) and Technical Officer
+  (infrastructure/submarine cable) postings — neither matches the tracked
+  profile, not logged.
+- No new vacancy found at Polis Chrysochous or Paphos Municipality this run.
+- Same source-access limitations persist (network egress policy).
+
+---
+
 ## 2026-09-01 — Daily run
 
 - **No changes.** All 4 tracked vacancies re-checked (ΕΟΑ Πάφου
