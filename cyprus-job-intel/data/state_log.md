@@ -5,6 +5,25 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-03 — Daily run
+
+- **No changes** to the 4 tracked vacancies. `last_checked` updated to
+  2026-09-03.
+- ΕΟΑ Πάφου deadline unconfirmed for the **5th consecutive run**.
+- AMC Medical Laboratory Scientist re-confirmed still closed, no repost
+  found yet.
+- **Not logged as a formal vacancy, but worth surfacing:** Neapolis
+  University Pafos's site indicates they take administrative-staff
+  applications on a standing basis (email — check nup.ac.cy/vacancies/ or
+  call +357 26843327). This is generic recruiting language, not a specific
+  dated posting with a title/deadline, so it doesn't meet the bar for a
+  trackable database record — flagging it in the report as a lead to
+  pursue directly rather than fabricating specifics to force-fit it into
+  the schema.
+- Same source-access limitations persist (network egress policy).
+
+---
+
 ## 2026-09-02 — Daily run
 
 - **No changes.** All 4 tracked vacancies re-checked, same status as

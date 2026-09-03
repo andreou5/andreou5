@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run": "2026-09-02",
+  "last_run": "2026-09-03",
   "vacancies": [
     {
       "tracking_id": "eoap-pafou-dioikitikos-leitourgos-20260830",
@@ -13,7 +13,7 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-30",
-      "last_checked": "2026-09-02",
+      "last_checked": "2026-09-03",
       "eligibility": "likely_eligible",
       "match_score": 72,
       "status": "open",
@@ -32,7 +32,7 @@
       "publication_date": null,
       "deadline": "2026-08-26",
       "first_seen": "2026-08-30",
-      "last_checked": "2026-09-02",
+      "last_checked": "2026-09-03",
       "eligibility": "likely_eligible",
       "match_score": 58,
       "status": "closed",
@@ -51,7 +51,7 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-30",
-      "last_checked": "2026-09-02",
+      "last_checked": "2026-09-03",
       "eligibility": "not_eligible",
       "match_score": 38,
       "status": "logged_low_priority",
@@ -70,7 +70,7 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-31",
-      "last_checked": "2026-09-02",
+      "last_checked": "2026-09-03",
       "eligibility": "not_eligible",
       "match_score": 46,
       "status": "logged_low_priority",
