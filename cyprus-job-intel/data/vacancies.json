@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run": "2026-09-03",
+  "last_run": "2026-09-04",
   "vacancies": [
     {
       "tracking_id": "eoap-pafou-dioikitikos-leitourgos-20260830",
@@ -13,7 +13,7 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-30",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "eligibility": "likely_eligible",
       "match_score": 72,
       "status": "open",
@@ -32,7 +32,7 @@
       "publication_date": null,
       "deadline": "2026-08-26",
       "first_seen": "2026-08-30",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "eligibility": "likely_eligible",
       "match_score": 58,
       "status": "closed",
@@ -51,7 +51,7 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-30",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "eligibility": "not_eligible",
       "match_score": 38,
       "status": "logged_low_priority",
@@ -70,13 +70,32 @@
       "publication_date": null,
       "deadline": null,
       "first_seen": "2026-08-31",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "eligibility": "not_eligible",
       "match_score": 46,
       "status": "logged_low_priority",
       "salary": null,
       "exam_info": null,
       "notes": "First vacancy found at Polis Chrysochous (top-priority location) since tracking began, but it requires a civil/municipal engineering qualification — a clear domain mismatch with a Biomedical Science + MBA background. Logged for transparency, not recommended. Publication date and deadline could not be confirmed — official site (polis.org.cy) not directly fetchable in this environment; found via search-indexed content."
+    },
+    {
+      "tracking_id": "polis-chrysochous-assistant-secretarial-officer-20260904",
+      "employer": "Δήμος Πόλεως Χρυσοχούς (Municipality of Polis Chrysochous)",
+      "title": "Βοηθός Γραμματειακός Λειτουργός (Assistant Secretarial Officer) — 2 permanent positions",
+      "location": "Polis Chrysochous",
+      "location_tier": "Polis Chrysochous",
+      "source_url": "https://www.polis.org.cy/el/announcements",
+      "official_source_url": "https://www.polis.org.cy/el/announcements",
+      "publication_date": null,
+      "deadline": null,
+      "first_seen": "2026-09-04",
+      "last_checked": "2026-09-04",
+      "eligibility": "likely_eligible",
+      "match_score": 68,
+      "status": "new",
+      "salary": null,
+      "exam_info": null,
+      "notes": "First genuinely admin-track (non-engineering) vacancy found at Polis Chrysochous since tracking began — surfaced alongside a Technical Services Officer (Civil Engineering, likely the same role already tracked as the Municipal Engineer entry or a related posting) and an Assistant IT Officer post (not logged — IT-specific requirement, not a fit). 'Assistant Secretarial Officer' is typically an entry/junior clerical grade in Cyprus municipal service schemes (usually requiring secondary education plus a typing/clerical qualification, not a university degree) — a Biomedical Science + MBA background would very likely clear the minimum bar, but this would be a career step down in seniority, not a match for the MBA's intended level. Flagging honestly: strong on location (the single highest-priority location), weak on career fit. Deadline, salary scale, and exact scheme requirements unconfirmed — official site not directly fetchable in this environment."
     }
   ]
 }

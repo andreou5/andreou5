@@ -5,6 +5,27 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-04 — Daily run
+
+- **New (1):**
+  - `polis-chrysochous-assistant-secretarial-officer-20260904` — Δήμος
+    Πόλεως Χρυσοχούς, Assistant Secretarial Officer (2 permanent posts).
+    First non-engineering, admin-track vacancy ever found at Polis
+    Chrysochous. Likely an entry/junior clerical grade rather than an
+    MBA-level role — flagged honestly as strong-on-location,
+    weak-on-seniority rather than oversold as a perfect match.
+  - (Not logged: an Assistant IT Officer post from the same Polis
+    Chrysochous announcement batch — IT-specific requirement, no fit.)
+- **Unchanged (4):** ΕΟΑ Πάφου Administrative Officer (deadline still
+  unconfirmed — **6th consecutive run**), AMC Medical Laboratory Scientist
+  (still closed), INEX QA Manager (still not eligible), Polis Chrysochous
+  Municipal Engineer (still not eligible — possibly the same announcement
+  batch as today's new find, given a "Technical Services Officer, Civil
+  Engineering" post also appeared in today's search).
+- Same source-access limitations persist (network egress policy).
+
+---
+
 ## 2026-09-03 — Daily run
 
 - **No changes** to the 4 tracked vacancies. `last_checked` updated to
