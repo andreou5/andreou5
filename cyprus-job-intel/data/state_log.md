@@ -5,6 +5,32 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-05 — Daily run
+
+- **No changes.** All 5 tracked vacancies re-checked, same status as
+  yesterday. `last_checked` updated to 2026-09-05; the Polis Chrysochous
+  Assistant Secretarial Officer record moved `status` from `new` to `open`
+  now that it's been seen on a second run.
+- ΕΟΑ Πάφου deadline unconfirmed for the **7th consecutive run**.
+- Δήμος Πόλεως Χρυσοχούς Assistant Secretarial Officer: no deadline
+  surfaced either, still unconfirmed.
+- One search surfaced a note that the AMC Medical Laboratory Scientist
+  posting "was from May 2026" — inconsistent with the 26 Aug 2026 deadline
+  already recorded. Given the conflict and that both figures come from the
+  same kind of indexed/aggregated search content (not a direct page read),
+  neither is treated as more authoritative — the record stays `closed` on
+  the basis of the previously-confirmed deadline having passed; noted here
+  for transparency rather than silently overwritten.
+- ΕΟΑ Πάφου's wider posting batch (Economic Director, Accountant, Internal
+  Auditor, Executive Engineer, etc.) is the same batch first seen around
+  the Administrative Officer posting — not new, and none of the other
+  titles in it were judged a clear enough profile fit to log (Internal
+  Auditor is the closest, but typically needs an accounting/audit
+  qualification beyond a general MBA — left out rather than guessed at).
+- Same source-access limitations persist (network egress policy).
+
+---
+
 ## 2026-09-04 — Daily run
 
 - **New (1):**
