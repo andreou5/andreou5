@@ -5,6 +5,33 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-06 — Daily run
+
+- **New (2):**
+  - `cing-nicosia-laboratory-scientific-officer-20260906` — Cyprus
+    Institute of Neurology and Genetics, Laboratory Scientific Officer
+    (Mouse Facility, Neuroscience Dept), Nicosia. **Time-sensitive:**
+    application deadline appears to be 7–8 September 2026 (two slightly
+    different dates seen in search snippets for what may be the same
+    batch — could not reconcile, flagged rather than guessed). Given how
+    close this is, recommend checking cing.ac.cy/en/vacancies directly
+    today rather than waiting for tomorrow's run.
+  - `biopsy-diagnosis-nicosia-biomedical-scientist-20260906` — Biopsy
+    Diagnosis Ltd, "Junior Medical Doctor / Biomedical Scientist",
+    Nicosia. Title bundles two tracks; could not confirm which
+    requirements apply to the Biomedical Scientist half. Logged with
+    `eligibility: unverified` rather than guessed.
+- **Unchanged (5):** ΕΟΑ Πάφου Administrative Officer (deadline
+  unconfirmed — **8th consecutive run**), Δήμος Πόλεως Χρυσοχούς Assistant
+  Secretarial Officer (deadline still unconfirmed), AMC (closed), INEX
+  (not eligible), Polis Chrysochous Municipal Engineer (not eligible).
+- Same source-access limitations persist (network egress policy);
+  cing.ac.cy and ergodotisi.com both blocked to direct fetch, so today's
+  two new records rely entirely on search-snippet content — flagged as
+  such in their notes given the time-sensitivity of one of them.
+
+---
+
 ## 2026-09-05 — Daily run
 
 - **No changes.** All 5 tracked vacancies re-checked, same status as
