@@ -5,6 +5,26 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-07 — Daily run
+
+- **No changes** to the 7 tracked vacancies. `last_checked` updated to
+  2026-09-07; CING and Biopsy Diagnosis records moved `status` `new` →
+  `open`.
+- CING Laboratory Scientific Officer: found a fuller role description
+  (Mouse Facility duties — transgenic/wild-type colony management,
+  supporting Neuroscience Dept. experimental projects, permanent
+  full-time) but **still no confirmed deadline** from search snippets.
+  The 8 September 2026 date already on record stays as the best-available
+  estimate, not newly confirmed — today is the 7th, so this is still
+  urgent if not already checked directly.
+- ΕΟΑ Πάφου deadline unconfirmed for the **9th consecutive run**.
+- Δήμος Πόλεως Χρυσοχούς Assistant Secretarial Officer: deadline still
+  unconfirmed.
+- No new vacancies found this run.
+- Same source-access limitations persist (network egress policy).
+
+---
+
 ## 2026-09-06 — Daily run
 
 - **New (2):**
