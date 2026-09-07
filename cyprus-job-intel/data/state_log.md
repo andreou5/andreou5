@@ -5,6 +5,20 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-07 — User-verified: ΕΟΑ Πάφου listing is expired
+
+The user opened the carierista.com listing directly (Ref #CA96542) and it
+shows "This job post is expired." This settles the deadline question that
+9 consecutive automated runs could not resolve — `eoap-pafou-dioikitikos-leitourgos-20260830`
+`status` changed `open` → `closed`. It stays the top-scored record
+historically (72/100) but is no longer the register's live top match;
+`eoap.org.cy`/ΕΟΑ Πάφου's own site was never directly reachable in this
+environment to catch this sooner. If ΕΟΑ Πάφου reposts an Administrative
+Officer role, it will be evaluated as a new listing on the next run, not
+assumed to be this one reopened.
+
+---
+
 ## 2026-09-07 — Cross-check correction (user-requested)
 
 User asked to cross-check every job and URL directly. Result — one real

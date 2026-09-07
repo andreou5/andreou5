@@ -16,10 +16,10 @@
       "last_checked": "2026-09-07",
       "eligibility": "likely_eligible",
       "match_score": 72,
-      "status": "open",
+      "status": "closed",
       "salary": "Combined salary scales A8–A10–A11 as stated in the posting: A8 €24,500–€37,667; A10 €34,284–€47,396; A11 €40,525–€53,637",
       "exam_info": null,
-      "notes": "CROSS-CHECK 2026-09-07: source_url IS a specific numbered job listing (carierista.com job id 96542), not a category/search page — confirmed a real, specific posting exists. However carierista.com itself remains blocked to direct fetch in this environment, so its current live/expired status could not be independently re-verified beyond what search snippets repeat. Semi-government/local-government body seated in Paphos. Exact required degree field and application deadline still could not be confirmed after 9 daily checks — official source (eoap.org.cy/careers/) was not directly reachable either. Verify current status and deadline directly at eoap.org.cy or by phone (26 818202 / 26 822270) before relying on it."
+      "notes": "CONFIRMED CLOSED 2026-09-07 (user-verified): user opened the carierista.com listing (job id 96542, Ref #CA96542) directly and it shows 'This job post is expired.' This settles what 9 daily automated checks could not — the posting is no longer live. No exact deadline date was ever recovered, but the outcome is now certain. Kept in the register as a closed record rather than deleted, per the tracker's own duplicate/change-detection rule. Semi-government/local-government body (ΕΟΑ Πάφου) seated in Paphos city — if they repost an Administrative Officer role, treat it as a new listing to re-evaluate, not an automatic reopen of this one."
     },
     {
       "tracking_id": "amc-nicosia-medical-laboratory-scientist-20260830",
