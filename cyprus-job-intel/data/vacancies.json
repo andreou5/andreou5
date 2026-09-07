@@ -19,7 +19,7 @@
       "status": "open",
       "salary": "Combined salary scales A8–A10–A11 as stated in the posting: A8 €24,500–€37,667; A10 €34,284–€47,396; A11 €40,525–€53,637",
       "exam_info": null,
-      "notes": "Semi-government/local-government body seated in Paphos. Exact required degree field and application deadline could not be confirmed — official source (eoap.org.cy) was not directly reachable in this environment (network egress restriction), so this record is built from a third-party listing (Carierista) summary. Verify current status and deadline directly at eoap.org.cy or by phone (26 818202) before relying on it."
+      "notes": "CROSS-CHECK 2026-09-07: source_url IS a specific numbered job listing (carierista.com job id 96542), not a category/search page — confirmed a real, specific posting exists. However carierista.com itself remains blocked to direct fetch in this environment, so its current live/expired status could not be independently re-verified beyond what search snippets repeat. Semi-government/local-government body seated in Paphos. Exact required degree field and application deadline still could not be confirmed after 9 daily checks — official source (eoap.org.cy/careers/) was not directly reachable either. Verify current status and deadline directly at eoap.org.cy or by phone (26 818202 / 26 822270) before relying on it."
     },
     {
       "tracking_id": "amc-nicosia-medical-laboratory-scientist-20260830",
@@ -90,12 +90,12 @@
       "deadline": null,
       "first_seen": "2026-09-04",
       "last_checked": "2026-09-07",
-      "eligibility": "likely_eligible",
+      "eligibility": "unverified",
       "match_score": 68,
-      "status": "open",
+      "status": "unverified_possibly_stale",
       "salary": null,
       "exam_info": null,
-      "notes": "First genuinely admin-track (non-engineering) vacancy found at Polis Chrysochous since tracking began — surfaced alongside a Technical Services Officer (Civil Engineering, likely the same role already tracked as the Municipal Engineer entry or a related posting) and an Assistant IT Officer post (not logged — IT-specific requirement, not a fit). 'Assistant Secretarial Officer' is typically an entry/junior clerical grade in Cyprus municipal service schemes (usually requiring secondary education plus a typing/clerical qualification, not a university degree) — a Biomedical Science + MBA background would very likely clear the minimum bar, but this would be a career step down in seniority, not a match for the MBA's intended level. Flagging honestly: strong on location (the single highest-priority location), weak on career fit. Deadline, salary scale, and exact scheme requirements unconfirmed — official site not directly fetchable in this environment."
+      "notes": "CROSS-CHECK 2026-09-07: could not find a specific posting page for this vacancy — only the generic /el/announcements listing and unrelated staff-directory pages (naming current Assistant Secretarial Officers by name, not a vacancy). A fresh targeted search of the announcements page today surfaced only unrelated notices (permits, vehicle sales) — no confirmation this listing is still live, or ever had its own dedicated URL. Downgraded from 'open'/likely_eligible to unverified pending a direct check of polis.org.cy/el/announcements or a call to the municipality (26321321 / info@polis.org.cy). Original context: this was the first genuinely admin-track (non-engineering) vacancy found at Polis Chrysochous, described as Assistant Clerical/Secretarial Officer, Grade Α2-5-7(ii), 2 permanent positions — an entry/junior clerical grade in Cyprus municipal service schemes (secondary education + typing/clerical qualification, not typically a university degree), so even if confirmed live, would be a step down in seniority from MBA level. Do not rely on this record without independent verification."
     },
     {
       "tracking_id": "cing-nicosia-laboratory-scientific-officer-20260906",
@@ -103,18 +103,18 @@
       "title": "Laboratory Scientific Officer — Mouse Facility, Department of Neuroscience",
       "location": "Nicosia",
       "location_tier": "Government/semi-government elsewhere (ambiguous — see notes)",
-      "source_url": "https://www.cing.ac.cy/en/vacancies",
+      "source_url": "https://ergodotisi.com/en-CY/jobs/6966391/The+Cyprus+Institute+of+Neurology+and+Genetics/Laboratory+Scientific+Officer",
       "official_source_url": "https://www.cing.ac.cy/en/vacancies",
       "publication_date": null,
-      "deadline": "2026-09-08",
+      "deadline": "2026-09-07",
       "first_seen": "2026-09-06",
       "last_checked": "2026-09-07",
       "eligibility": "unverified",
       "match_score": 48,
       "status": "open",
-      "salary": null,
-      "exam_info": null,
-      "notes": "TIME-SENSITIVE: cover letter + CV must reach CING by email by 8 September 2026, referencing the position code (also saw a Monday 7 Sept 2026 deadline for a related vacancy in the same batch — the two dates could not be reconciled from search snippets alone; treat 8 Sept as the safer/later cutoff but don't rely on that without checking cing.ac.cy/en/vacancies directly, today if possible). Exact degree requirements not confirmed — 'Laboratory Scientific Officer' for an animal (mouse) facility plausibly fits a Biomedical Science background but could also require specific animal-handling/veterinary-science training instead. CING's institutional status (private research institute vs. semi-governmental) is ambiguous from available sources, so location tier is a placeholder, not a confirmed classification. Contact for more info: Mrs Anna Michaelidou, tel. 22392789. Given the imminent deadline, worth a direct same-day check rather than waiting for tomorrow's run."
+      "salary": "Annual starting gross salary (incl. 13th salary) €76,184.17 — Scale A15/A16 — plus an annual allowance, as stated in the posting",
+      "exam_info": "Reference code 360426 must be quoted in the application",
+      "notes": "CROSS-CHECK 2026-09-07: deadline corrected — confirmed as Monday, 7 September 2026 (TODAY, not the 8th as previously estimated). This is a distinct, current posting from a separate, already-closed CING batch (cing.ac.cy/en/vacancies/apr26_core_lso, 4x Laboratory Scientific Officer for the General Core Facility/Small Animals, deadline 30 Apr 2026 — do not confuse the two). Found a specific third-party posting URL via ergodotisi.com (above); the official cing.ac.cy page for this exact posting could not be found at a specific slug, only the general /en/vacancies listing. Cover letter + CV to reach CING by email, quoting reference code 360426. Role: permanent, full-time; transgenic/wild-type mouse colony management supporting Neuroscience Dept. research. Exact degree requirements still not confirmed — plausibly fits Biomedical Science but could call for animal-handling/veterinary training instead. CING is a bi-communal non-profit research/academic/medical centre — not clearly government, semi-government, or ordinary private, so this tier placement stays a placeholder. Contact: Mrs Anna Michaelidou, tel. 22392789. Given the deadline is today, treat as effectively closed unless applied same-day."
     },
     {
       "tracking_id": "biopsy-diagnosis-nicosia-biomedical-scientist-20260906",
@@ -133,7 +133,7 @@
       "status": "open",
       "salary": null,
       "exam_info": null,
-      "notes": "Posting title bundles two distinct tracks ('Junior Medical Doctor' and 'Biomedical Scientist') without search snippets clarifying which requirements apply to which — could not confirm whether the Biomedical Scientist track is genuinely open or the role is effectively an MD position with 'Biomedical Scientist' as a secondary label. Full posting details not directly fetchable in this environment (ergodotisi.com blocked). Worth a direct look at the ergodotisi.com Medical Doctors category page before assuming fit either way. Nicosia, private sector, not a location priority — logged only because of the direct biomedical-scientist title match."
+      "notes": "CROSS-CHECK 2026-09-07: still could not find a specific posting URL despite several targeted searches — only the generic Medical Doctors category page (source_url above). Corroborated detail: search snippets consistently describe it as posted ~13 days ago and expiring ~17 days from when first seen (2026-09-06), which would put the deadline in the low-to-mid twenties of September, but this is inferred from relative-time language, not a stated date — deliberately left as null rather than calculated and presented as fact. Posting title bundles two distinct tracks ('Junior Medical Doctor' and 'Biomedical Scientist') and it's still unclear which requirements apply to which. Nicosia, private sector, not a location priority — logged only because of the direct biomedical-scientist title match."
     }
   ]
 }

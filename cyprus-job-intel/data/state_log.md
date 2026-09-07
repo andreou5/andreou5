@@ -5,6 +5,38 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-07 — Cross-check correction (user-requested)
+
+User asked to cross-check every job and URL directly. Result — one real
+error caught and corrected, one record downgraded, one confirmed sound:
+
+- **CING Laboratory Scientific Officer — corrected, not just re-confirmed.**
+  The deadline was wrong: previously recorded as "~8 September," the
+  actual confirmed deadline is **Monday 7 September 2026 — today**. Also
+  found: reference code (360426), a real salary figure (€76,184.17 gross
+  annual, incl. 13th salary, Scale A15/A16, + allowance), and a specific
+  third-party posting URL (ergodotisi.com/en-CY/jobs/6966391/...). Also
+  discovered a *different*, already-closed CING LSO batch (4 posts,
+  General Core Facility, deadline 30 Apr 2026) that could easily have been
+  confused with this one — confirmed they are separate postings.
+- **Δήμος Πόλεως Χρυσοχούς Assistant Secretarial Officer — downgraded.**
+  Could not find a dedicated posting URL on a second, more targeted pass;
+  a fresh check of polis.org.cy/el/announcements today surfaced only
+  unrelated notices (permits, vehicle sales), not this vacancy. `status`
+  changed `open` → `unverified_possibly_stale`, `eligibility` changed
+  `likely_eligible` → `unverified`. Should not be relied on without a
+  direct call to the municipality.
+- **Biopsy Diagnosis Ltd — still no specific posting URL found**, despite
+  additional targeted searches. Relative-time language ("posted 13 days
+  ago, expires in 17 days") could imply a deadline in the low-to-mid
+  twenties of September, but this was deliberately left uncalculated
+  (`deadline: null`) rather than presented as a stated fact.
+- **ΕΟΑ Πάφου Administrative Officer — confirmed sound, still incomplete.**
+  `source_url` is a genuine specific job listing (carierista.com id
+  96542), not a category page — the record's underlying URL was fine.
+  Deadline remains unconfirmed after 9 daily checks; this is a real gap,
+  not a sourcing mistake.
+
 ## 2026-09-07 — Daily run
 
 - **No changes** to the 7 tracked vacancies. `last_checked` updated to
