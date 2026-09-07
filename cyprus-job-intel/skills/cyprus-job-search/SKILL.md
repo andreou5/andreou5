@@ -54,22 +54,48 @@ in Polis Chrysochous is classified as Polis Chrysochous).
    Service jobs) and the central e-recruitment listings.
 2. **Public Service Commission (PSC / Επιτροπή Δημόσιας Υπηρεσίας)** —
    https://psc.gov.cy — competition/vacancy announcements.
-3. **OKYPY** (Οργανισμός Κρατικών Υπηρεσιών Υγείας — State Health Services
+3. **Official Gazette (Επίσημη Εφημερίδα της Κυπριακής Δημοκρατίας)** —
+   https://www.mof.gov.cy/mof/gpo/gazette.nsf — the formal, authoritative
+   publication of every public-service vacancy (Κύριο Μέρος, Τμήμα Α).
+   PSC and gov.cy announcements are usually drawn from here, but the
+   Gazette itself sometimes surfaces postings (or exact publication/
+   deadline dates) neither of the other two shows — check its vacancy
+   section directly: https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_view_sections_gr/dmlgaz_view_sections_gr?OpenDocument=&cp=22&sectionNumber=1
+   (issues are also posted as individual PDFs, e.g.
+   mof.gov.cy/mof/gpo/gazette.nsf/.../$file/NNNN DD MM YYYY KYRIO MEROS TMIMA A.pdf).
+4. **OKYPY** (Οργανισμός Κρατικών Υπηρεσιών Υγείας — State Health Services
    Organisation, runs the state hospitals incl. Paphos General Hospital) —
-   https://okypy.org.cy.
-4. **Paphos Municipality** — https://paphos.org.cy — and **Polis Chrysochous
-   Municipality** — https://polis-chrysochous.org.cy (or successor domain).
-5. **Semi-government organisations**: CYTA (https://www.cyta.com.cy), EAC/ΑΗΚ
+   https://www.shso.org.cy (confirmed live domain; okypy.org.cy is not the
+   working address, correcting the original guess in this spec).
+5. **Paphos Municipality** — https://pafos.org.cy — and **Polis Chrysochous
+   Municipality** — https://www.polis.org.cy.
+6. **Semi-government organisations**: CYTA (https://www.cyta.com.cy), EAC/ΑΗΚ
    (https://www.eac.com.cy), Water Development Department / Water Boards
-   (https://www.wdd.moa.gov.cy and local Paphos water board), Cyprus Ports
-   Authority, CyBC.
-6. **Universities**: University of Cyprus, Cyprus University of Technology,
+   (https://www.wdd.moa.gov.cy and local Paphos water board — pafos.org.cy/en/idatopromitheia),
+   ΕΟΑ Πάφου / Pafos District Local Government Organisation
+   (https://eoap.org.cy/careers), Cyprus Ports Authority, CyBC.
+7. **Universities**: University of Cyprus, Cyprus University of Technology,
    Open University of Cyprus, Neapolis University Pafos (Paphos-based —
    check first among universities given location priority).
-7. **Private-sector backups**: LinkedIn Cyprus, CareerJet Cyprus, Bizcyprus,
-   EURES Cyprus, major private hospital/lab groups (e.g. Bio-Ideal, Ygia
-   Polyclinic, American Medical Center) and general business/management
-   listings — **excluding KPMG** (Section 1).
+8. **Private-sector backups — Cyprus job boards** (check all; none is
+   consistently more complete than the others, and the same listing often
+   appears on several with different detail):
+   - **Ergodotisi** — https://ergodotisi.com
+   - **Carierista** — https://www.carierista.com
+   - **AnergosJobs** — https://www.anergosjobs.com
+   - **CyprusWork** — https://www.cypruswork.com
+   - **Alpha.jobs** — https://www.alpha.jobs
+   - **CyprusJobs** — https://www.cyprusjobs.com (and cyprusjobs.com.cy,
+     a separate free-listing site under a similar name — check both)
+   - **FindJobsInCyprus** — https://findjobsincyprus.com
+   - **Bazaraki** (jobs & services section) — https://www.bazaraki.com/jobs-and-services/
+   - **CareerJet Cyprus** — https://www.careerjet.com.cy
+   - **GRS Recruitment** — https://www.grsrecruitment.com
+   - **CY Recruitment** (healthcare/medical-sector specialist) —
+     https://www.cy-recruitment.com
+   - LinkedIn Cyprus, Bizcyprus, EURES Cyprus, and major private
+     hospital/lab groups directly (e.g. Bio-Ideal, Ygia Polyclinic,
+     American Medical Center) — **excluding KPMG** (Section 1).
 
 If a source is unreachable (blocked, timed out, structurally unscrapable),
 record that plainly in the run's notes and move to the next source rather

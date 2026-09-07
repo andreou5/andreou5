@@ -5,6 +5,57 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-07 — Source list expanded (user-requested): 6 new leads found
+
+User asked to add the Cyprus Official Gazette and expand the private-sector
+source list to all known Cyprus job boards. `skills/cyprus-job-search/SKILL.md`
+Section 3 updated: added the Gazette (mof.gov.cy/mof/gpo/gazette.nsf),
+corrected OKYPY's real domain (shso.org.cy, not okypy.org.cy), and added
+Ergodotisi, CyprusWork, Alpha.jobs, CyprusJobs, FindJobsInCyprus, Bazaraki,
+CareerJet Cyprus, GRS Recruitment, and CY Recruitment to the job-board list
+(Carierista and AnergosJobs were already tracked).
+
+Ran the expanded source list immediately rather than waiting for tomorrow's
+run. Result — **6 new records, 3 of them tied for the register's top score
+(72)**, all in Paphos city:
+
+- **New, strong (Paphos city, likely_eligible, score 72):**
+  - `grs-paphos-administrative-officer-pa-20260907` — GRS Recruitment,
+    Administrative Officer/PA for an online marketing/affiliate group.
+    Salary confirmed: €18,000–€24,000 gross/year. Real specific URL.
+  - `grs-paphos-executive-assistant-20260907` — GRS Recruitment, Executive
+    Assistant/Office Coordinator supporting senior management. Real
+    specific URL (note: page title says "Executive Assistant," the URL
+    slug says "office-manager" — flagged, not silently resolved).
+  - `flexsy-paphos-office-manager-20260907` — Flexsy (online gaming tech),
+    Office Manager & Operations Coordinator, explicit growth path into
+    HR/operations/corporate support. **No dedicated ad URL found** — only
+    Bazaraki's Paphos category page; flagged rather than guessed at.
+- **New, moderate (Paphos city, likely_eligible, score 60):**
+  - `grs-paphos-office-administrator-receptionist-20260907` — GRS
+    Recruitment, more junior/front-of-house than the other two GRS
+    listings; full requirements not yet pulled.
+  - `inex-paphos-office-administrator-20260907` — INEX Group (different
+    role from their already-tracked QA Manager posting), general office
+    admin, C1 English required. **No dedicated ad URL found** either.
+- **New, not eligible (Polis Chrysochous area, logged low-priority):**
+  - `grs-latsi-project-manager-20260907` — GRS Recruitment, construction
+    Project Manager in Latsi (part of the Polis Chrysochous municipal
+    area) — but requires a Civil Engineering background. Domain mismatch,
+    logged for completeness given the location.
+- **Checked, nothing added:** the Official Gazette itself (search-indexed
+  content only reproduced what PSC/gov.cy already surface, no unique
+  Paphos/Polis-relevant vacancy found this pass); St George & Blue Cross
+  Private Hospital, Paphos (has a Clinical Laboratory Department — genuinely
+  worth watching directly — but no current specific vacancy found, so not
+  logged, consistent with the tracker's own no-fabrication rule).
+
+This is the first run where the register has a genuine cluster of
+Paphos-city leads rather than a single fragile one — worth noting given
+ΕΟΑ Πάφου closed earlier today.
+
+---
+
 ## 2026-09-07 — User-verified: ΕΟΑ Πάφου listing is expired
 
 The user opened the carierista.com listing directly (Ref #CA96542) and it
