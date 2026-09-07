@@ -1,0 +1,484 @@
+<title>The Paphos Register</title>
+<style>
+  :root {
+    --bg: #EEF1EE;
+    --surface: #FBFCFB;
+    --surface-alt: #E3E9E4;
+    --ink: #182420;
+    --ink-soft: #55625B;
+    --ink-faint: #8B978F;
+    --line: #D2D9D3;
+    --line-strong: #B7C1B8;
+    --accent: #1F6F6B;
+    --accent-ink: #0F3B39;
+    --accent-soft: #E1EFED;
+    --gold: #A9761F;
+    --gold-soft: #F3E9D3;
+    --good: #3E7A52;
+    --good-soft: #E4F0E7;
+    --warn: #A9761F;
+    --warn-soft: #F3E9D3;
+    --bad: #9C4A3C;
+    --bad-soft: #F3E4E1;
+    --neutral: #767F78;
+    --neutral-soft: #E6E9E6;
+    --shadow: 0 1px 2px rgba(24,36,32,.06), 0 6px 20px rgba(24,36,32,.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #111714;
+      --surface: #191F1C;
+      --surface-alt: #202722;
+      --ink: #E7ECE8;
+      --ink-soft: #9CA89F;
+      --ink-faint: #667069;
+      --line: #29332C;
+      --line-strong: #38443B;
+      --accent: #57B8B0;
+      --accent-ink: #BFEAE5;
+      --accent-soft: #1B2E2B;
+      --gold: #D6AA55;
+      --gold-soft: #332A18;
+      --good: #77C48D;
+      --good-soft: #1C2C20;
+      --warn: #D6AA55;
+      --warn-soft: #332A18;
+      --bad: #E08B7C;
+      --bad-soft: #33211D;
+      --neutral: #97A198;
+      --neutral-soft: #212722;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #111714;
+    --surface: #191F1C;
+    --surface-alt: #202722;
+    --ink: #E7ECE8;
+    --ink-soft: #9CA89F;
+    --ink-faint: #667069;
+    --line: #29332C;
+    --line-strong: #38443B;
+    --accent: #57B8B0;
+    --accent-ink: #BFEAE5;
+    --accent-soft: #1B2E2B;
+    --gold: #D6AA55;
+    --gold-soft: #332A18;
+    --good: #77C48D;
+    --good-soft: #1C2C20;
+    --warn: #D6AA55;
+    --warn-soft: #332A18;
+    --bad: #E08B7C;
+    --bad-soft: #33211D;
+    --neutral: #97A198;
+    --neutral-soft: #212722;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 3.5rem 1.5rem 5rem; }
+  .mono { font-family: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace; font-variant-numeric: tabular-nums; }
+  h1, h2, h3 { font-family: "Newsreader", Georgia, serif; font-weight: 600; text-wrap: balance; margin: 0; }
+  a { color: var(--accent); }
+
+  /* Masthead */
+  .masthead { display: flex; flex-direction: column; gap: .6rem; border-bottom: 1px solid var(--line-strong); padding-bottom: 1.75rem; }
+  .eyebrow {
+    font-family: "IBM Plex Mono", monospace; font-size: .72rem; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--accent); font-weight: 500;
+  }
+  .masthead h1 { font-size: 2.5rem; letter-spacing: -.01em; }
+  .masthead .dek { color: var(--ink-soft); font-size: 1rem; max-width: 62ch; }
+  .runstamp {
+    display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; margin-top: .4rem;
+    font-family: "IBM Plex Mono", monospace; font-size: .78rem; color: var(--ink-faint);
+  }
+  .runstamp b { color: var(--ink-soft); font-weight: 500; }
+
+  /* Stat strip */
+  .stats {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1px; background: var(--line); border: 1px solid var(--line);
+    border-radius: 10px; overflow: hidden; margin: 2rem 0;
+  }
+  .stat { background: var(--surface); padding: 1.1rem 1.15rem; display: flex; flex-direction: column; gap: .3rem; }
+  .stat .n { font-family: "Newsreader", serif; font-size: 1.9rem; font-weight: 600; line-height: 1; }
+  .stat .l { font-size: .74rem; color: var(--ink-soft); letter-spacing: .01em; }
+  .stat.warn .n { color: var(--warn); }
+  .stat.warn { background: var(--warn-soft); }
+
+  /* Alert banner */
+  .alert {
+    display: flex; gap: .85rem; align-items: flex-start; background: var(--warn-soft);
+    border: 1px solid color-mix(in srgb, var(--warn) 45%, var(--line));
+    border-radius: 10px; padding: 1rem 1.15rem; margin-bottom: 2rem;
+  }
+  .alert .dot { width: .55rem; height: .55rem; border-radius: 50%; background: var(--warn); margin-top: .4rem; flex: none; }
+  .alert strong { color: var(--warn); }
+  .alert p { margin: .25rem 0 0; font-size: .92rem; color: var(--ink-soft); }
+
+  /* Ladder */
+  .ladder { margin: 2.5rem 0; }
+  .ladder h2 { font-size: 1.15rem; margin-bottom: .3rem; }
+  .ladder .sub { color: var(--ink-soft); font-size: .85rem; margin-bottom: 1rem; }
+  .rungs { display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .rung {
+    display: grid; grid-template-columns: 1.6rem 1fr auto; align-items: center;
+    gap: .8rem; padding: .65rem 1rem; background: var(--surface);
+    border-top: 1px solid var(--line); font-size: .88rem;
+  }
+  .rung:first-child { border-top: none; }
+  .rung .idx { font-family: "IBM Plex Mono", monospace; color: var(--ink-faint); font-size: .78rem; }
+  .rung .count { font-family: "IBM Plex Mono", monospace; font-size: .78rem; color: var(--ink-soft); }
+  .rung.has-hit { background: var(--accent-soft); }
+  .rung.has-hit .idx { color: var(--accent-ink); }
+
+  /* Section headers */
+  .section { margin: 3rem 0 1.25rem; }
+  .section h2 { font-size: 1.3rem; display: flex; align-items: baseline; gap: .6rem; }
+  .section .tag {
+    font-family: "IBM Plex Mono", monospace; font-size: .68rem; letter-spacing: .06em;
+    color: var(--ink-faint); text-transform: uppercase; font-weight: 500;
+  }
+  .section .note { color: var(--ink-soft); font-size: .85rem; margin-top: .3rem; }
+
+  /* Vacancy card */
+  .card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 1.1rem 1.25rem 1.2rem; margin-bottom: .9rem; position: relative;
+    border-left: 3px solid var(--line-strong); box-shadow: var(--shadow);
+  }
+  .card.eligible-good { border-left-color: var(--good); }
+  .card.eligible-warn { border-left-color: var(--warn); }
+  .card.eligible-unverified { border-left-color: var(--ink-faint); }
+  .card-top { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+  .card h3 { font-size: 1.08rem; font-weight: 600; }
+  .employer { color: var(--ink-soft); font-size: .86rem; margin-top: .15rem; }
+  .chips { display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; }
+  .chip {
+    font-family: "IBM Plex Mono", monospace; font-size: .68rem; font-weight: 500;
+    letter-spacing: .03em; text-transform: uppercase; padding: .2rem .5rem;
+    border-radius: 999px; white-space: nowrap;
+  }
+  .chip.good { background: var(--good-soft); color: var(--good); }
+  .chip.warn { background: var(--warn-soft); color: var(--warn); }
+  .chip.bad { background: var(--bad-soft); color: var(--bad); }
+  .chip.neutral { background: var(--neutral-soft); color: var(--ink-soft); }
+  .score {
+    font-family: "IBM Plex Mono", monospace; font-size: .82rem; font-weight: 500;
+    color: var(--accent-ink); background: var(--accent-soft); border-radius: 6px;
+    padding: .18rem .45rem; flex: none;
+  }
+  .meta {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr));
+    gap: .5rem 1.2rem; margin: .85rem 0 .7rem; font-size: .82rem;
+  }
+  .meta div { display: flex; flex-direction: column; gap: .1rem; }
+  .meta .k { color: var(--ink-faint); font-size: .68rem; text-transform: uppercase; letter-spacing: .05em; }
+  .meta .v { font-family: "IBM Plex Mono", monospace; font-size: .82rem; }
+  .meta .v.flag { color: var(--warn); }
+  .why { font-size: .89rem; color: var(--ink-soft); margin: .3rem 0 .6rem; max-width: 68ch; }
+  .card .src { font-size: .78rem; }
+  .card .src a { text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+
+  /* Logged / not recommended — de-emphasized rows, not cards */
+  .logrow {
+    display: grid; grid-template-columns: 1fr auto auto; align-items: center;
+    gap: .8rem; padding: .7rem 0; border-top: 1px solid var(--line); font-size: .87rem;
+  }
+  .logrow:first-child { border-top: none; }
+  .logrow .t { font-weight: 500; }
+  .logrow .why { margin: .15rem 0 0; font-size: .8rem; }
+  .logbox { border: 1px solid var(--line); border-radius: 10px; padding: .2rem 1.1rem; background: var(--surface); }
+
+  /* Empty tier */
+  .empty-tier {
+    border: 1px dashed var(--line-strong); border-radius: 10px; padding: .9rem 1.1rem;
+    color: var(--ink-faint); font-size: .85rem; margin-bottom: .9rem;
+  }
+
+  /* Timeline */
+  .timeline-wrap { border: 1px solid var(--line); border-radius: 10px; padding: 1.3rem 1.4rem 1rem; background: var(--surface); }
+  .timeline-cap { color: var(--ink-soft); font-size: .85rem; margin-bottom: .9rem; }
+  svg text { font-family: "IBM Plex Mono", monospace; fill: var(--ink-faint); }
+
+  footer { margin-top: 3.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
+  footer p { color: var(--ink-faint); font-size: .8rem; max-width: 66ch; margin: .4rem 0; }
+  footer .kpmg { font-family: "IBM Plex Mono", monospace; }
+
+  @media (max-width: 520px) {
+    .masthead h1 { font-size: 2rem; }
+    .card-top { flex-direction: column; }
+    .logrow { grid-template-columns: 1fr; }
+  }
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,500;0,600;0,700;1,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<div class="wrap">
+
+  <div class="masthead">
+    <div class="eyebrow">Cyprus Job Intelligence</div>
+    <h1>The Paphos Register</h1>
+    <p class="dek">Government, semi-government, and private-sector vacancies tracked daily for a Biomedical Science &amp; MBA job search — ranked by Polis Chrysochous → Paphos city → Paphos district → government elsewhere → exceptional private elsewhere.</p>
+    <div class="runstamp">
+      <span><b>Run 9</b> · 2026-09-07, 07:00 Cyprus time</span>
+      <span>Tracking since <b>2026-08-30</b></span>
+      <span>Next run <b>2026-09-08, 07:00</b></span>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><span class="n">7</span><span class="l">vacancies tracked</span></div>
+    <div class="stat"><span class="n">4</span><span class="l">currently open</span></div>
+    <div class="stat"><span class="n">72</span><span class="l">top match score — ΕΟΑ Πάφου</span></div>
+    <div class="stat warn"><span class="n">9</span><span class="l">runs with ΕΟΑ Πάφου deadline still unconfirmed</span></div>
+  </div>
+
+  <div class="alert">
+    <span class="dot"></span>
+    <div>
+      <strong>Time-sensitive — CING Laboratory Scientific Officer</strong>
+      <p>Deadline looks like <strong>8 September 2026</strong> (unconfirmed — search snippets gave two dates for the same batch). That's tomorrow. Check <a href="https://www.cing.ac.cy/en/vacancies" target="_blank" rel="noopener">cing.ac.cy/en/vacancies</a> directly rather than waiting on the next run.</p>
+    </div>
+  </div>
+
+  <div class="ladder">
+    <h2>Location priority ladder</h2>
+    <p class="sub">The ranking this whole register sorts by — and how many vacancies have turned up at each tier so far.</p>
+    <div class="rungs">
+      <div class="rung has-hit"><span class="idx">01</span><span>Polis Chrysochous</span><span class="count">2 found · 1 fits profile</span></div>
+      <div class="rung has-hit"><span class="idx">02</span><span>Paphos city</span><span class="count">2 found · 1 fits profile</span></div>
+      <div class="rung"><span class="idx">03</span><span>Paphos district</span><span class="count">none found yet</span></div>
+      <div class="rung has-hit"><span class="idx">04</span><span>Government / semi-government, elsewhere</span><span class="count">1 found · tier ambiguous</span></div>
+      <div class="rung has-hit"><span class="idx">05</span><span>Exceptional private, elsewhere</span><span class="count">2 found · 1 closed</span></div>
+    </div>
+  </div>
+
+  <!-- TIER 1 — POLIS CHRYSOCHOUS -->
+  <div class="section">
+    <h2>Polis Chrysochous <span class="tag">Tier 01</span></h2>
+  </div>
+
+  <div class="card eligible-warn">
+    <div class="card-top">
+      <div>
+        <h3>Βοηθός Γραμματειακός Λειτουργός <span class="mono" style="font-weight:400;color:var(--ink-faint);font-size:.85rem;">— Assistant Secretarial Officer ×2</span></h3>
+        <div class="employer">Δήμος Πόλεως Χρυσοχούς — Municipality of Polis Chrysochous</div>
+      </div>
+      <span class="score">68 / 100</span>
+    </div>
+    <div class="chips" style="margin-top:.6rem;">
+      <span class="chip warn">Likely eligible</span>
+      <span class="chip neutral">Open</span>
+    </div>
+    <p class="why">The only non-engineering vacancy found yet at the single top-priority location — but a junior clerical grade, likely a step down in seniority from what the MBA is suited for. Strong on location, weak on career fit.</p>
+    <div class="meta">
+      <div><span class="k">Deadline</span><span class="v flag">unconfirmed</span></div>
+      <div><span class="k">Salary</span><span class="v">not stated</span></div>
+      <div><span class="k">First seen</span><span class="v">2026-09-04</span></div>
+      <div><span class="k">Last checked</span><span class="v">2026-09-07</span></div>
+    </div>
+    <div class="src"><a href="https://www.polis.org.cy/el/announcements" target="_blank" rel="noopener">polis.org.cy/el/announcements →</a></div>
+  </div>
+
+  <!-- TIER 2 — PAPHOS CITY -->
+  <div class="section">
+    <h2>Paphos city <span class="tag">Tier 02</span></h2>
+  </div>
+
+  <div class="card eligible-warn">
+    <div class="card-top">
+      <div>
+        <h3>Διοικητικός Λειτουργός <span class="mono" style="font-weight:400;color:var(--ink-faint);font-size:.85rem;">— Administrative Officer ×3</span></h3>
+        <div class="employer">Επαρχιακός Οργανισμός Αυτοδιοίκησης Πάφου — ΕΟΑ Πάφου</div>
+      </div>
+      <span class="score">72 / 100</span>
+    </div>
+    <div class="chips" style="margin-top:.6rem;">
+      <span class="chip warn">Likely eligible</span>
+      <span class="chip neutral">Open</span>
+    </div>
+    <p class="why">The strongest lead in the register — semi-government, Paphos city, and MBA-relevant. Deadline has now gone unconfirmed for <strong>9 runs straight</strong>; worth calling ΕΟΑ Πάφου directly rather than waiting on this page.</p>
+    <div class="meta">
+      <div><span class="k">Deadline</span><span class="v flag">unconfirmed × 9</span></div>
+      <div><span class="k">Salary</span><span class="v">A8–A10–A11, €24,500–€53,637</span></div>
+      <div><span class="k">First seen</span><span class="v">2026-08-30</span></div>
+      <div><span class="k">Contact</span><span class="v">26 818202</span></div>
+    </div>
+    <div class="src"><a href="https://www.carierista.com/en/jobs/96542/eparkhiakos-orghanismos-autodiikisis-pafoy-3-theseis-dioikitikou-leitoyrghou" target="_blank" rel="noopener">carierista.com listing →</a></div>
+  </div>
+
+  <!-- TIER 3 — PAPHOS DISTRICT -->
+  <div class="section">
+    <h2>Paphos district <span class="tag">Tier 03</span></h2>
+  </div>
+  <div class="empty-tier">No vacancies matching the profile found at this tier yet, across 9 daily runs.</div>
+
+  <!-- TIER 4 — GOV/SEMI-GOV ELSEWHERE -->
+  <div class="section">
+    <h2>Government / semi-government, elsewhere <span class="tag">Tier 04</span></h2>
+  </div>
+
+  <div class="card eligible-unverified">
+    <div class="card-top">
+      <div>
+        <h3>Laboratory Scientific Officer <span class="mono" style="font-weight:400;color:var(--ink-faint);font-size:.85rem;">— Mouse Facility, Dept. of Neuroscience</span></h3>
+        <div class="employer">Cyprus Institute of Neurology and Genetics — CING, Nicosia</div>
+      </div>
+      <span class="score">48 / 100</span>
+    </div>
+    <div class="chips" style="margin-top:.6rem;">
+      <span class="chip neutral">Unverified</span>
+      <span class="chip neutral">Open</span>
+      <span class="chip warn">Deadline imminent</span>
+    </div>
+    <p class="why">Permanent, full-time; transgenic/wild-type mouse-colony work supporting Neuroscience research. Could fit a Biomedical Science background, or could call for animal-handling training instead — not confirmed. CING's status as semi-governmental vs. private is itself unclear, so this tier placement is a placeholder.</p>
+    <div class="meta">
+      <div><span class="k">Deadline</span><span class="v flag">~2026-09-08 (est.)</span></div>
+      <div><span class="k">Salary</span><span class="v">not stated</span></div>
+      <div><span class="k">First seen</span><span class="v">2026-09-06</span></div>
+      <div><span class="k">Contact</span><span class="v">A. Michaelidou, 22392789</span></div>
+    </div>
+    <div class="src"><a href="https://www.cing.ac.cy/en/vacancies" target="_blank" rel="noopener">cing.ac.cy/en/vacancies →</a></div>
+  </div>
+
+  <!-- TIER 5 — EXCEPTIONAL PRIVATE ELSEWHERE -->
+  <div class="section">
+    <h2>Exceptional private sector, elsewhere <span class="tag">Tier 05</span></h2>
+    <p class="note">Ordinary private listings outside Paphos/Polis are left out of the register on purpose; these two cleared the bar on degree match alone.</p>
+  </div>
+
+  <div class="card eligible-unverified">
+    <div class="card-top">
+      <div>
+        <h3>Junior Medical Doctor / Biomedical Scientist</h3>
+        <div class="employer">Biopsy Diagnosis Ltd, Nicosia</div>
+      </div>
+      <span class="score">40 / 100</span>
+    </div>
+    <div class="chips" style="margin-top:.6rem;">
+      <span class="chip neutral">Unverified</span>
+      <span class="chip neutral">Open</span>
+    </div>
+    <p class="why">The posting bundles two different roles under one title, and it's unclear which requirements apply to the Biomedical Scientist half — logged rather than guessed at.</p>
+    <div class="meta">
+      <div><span class="k">Deadline</span><span class="v">not stated</span></div>
+      <div><span class="k">Salary</span><span class="v">not stated</span></div>
+      <div><span class="k">First seen</span><span class="v">2026-09-06</span></div>
+      <div><span class="k">Last checked</span><span class="v">2026-09-07</span></div>
+    </div>
+    <div class="src"><a href="https://ergodotisi.com/en-CY/categories/652738/Medical%20Doctors" target="_blank" rel="noopener">ergodotisi.com listing →</a></div>
+  </div>
+
+  <div class="card" style="border-left-color:var(--ink-faint); opacity:.82;">
+    <div class="card-top">
+      <div>
+        <h3>Medical Laboratory Scientist</h3>
+        <div class="employer">American Medical Center / American Heart Institute, Nicosia</div>
+      </div>
+      <span class="score">58 / 100</span>
+    </div>
+    <div class="chips" style="margin-top:.6rem;">
+      <span class="chip warn">Likely eligible</span>
+      <span class="chip bad">Closed</span>
+    </div>
+    <p class="why">The most direct degree match found to date (BSc Medical Laboratory Sciences / Biomedical Sciences) — but the deadline (26 Aug 2026) has passed. Worth re-checking for a repost; AMC roles like this have reappeared before.</p>
+    <div class="meta">
+      <div><span class="k">Deadline</span><span class="v">2026-08-26 (passed)</span></div>
+      <div><span class="k">Salary</span><span class="v">not stated</span></div>
+      <div><span class="k">First seen</span><span class="v">2026-08-30</span></div>
+      <div><span class="k">Last checked</span><span class="v">2026-09-07</span></div>
+    </div>
+    <div class="src"><a href="https://www.anergosjobs.com/374444-american-medical-center-%CE%B6%CE%B7%CF%84%CE%B5%CE%AF%CF%84%CE%B1%CE%B9-medical-laboratory-scientist/" target="_blank" rel="noopener">anergosjobs.com listing →</a></div>
+  </div>
+
+  <!-- LOGGED, NOT RECOMMENDED -->
+  <div class="section">
+    <h2>Logged, not recommended <span class="tag">domain mismatch</span></h2>
+    <p class="note">Kept for a complete record — strong on location, but the stated requirements don't fit a Biomedical Science + MBA background.</p>
+  </div>
+  <div class="logbox">
+    <div class="logrow">
+      <div>
+        <div class="t">Δημοτικός Μηχανικός — Municipal Engineer</div>
+        <p class="why">Δήμος Πόλεως Χρυσοχούς, Polis Chrysochous. Requires a civil/municipal engineering qualification.</p>
+      </div>
+      <span class="chip bad">Not eligible</span>
+      <span class="score" style="background:var(--neutral-soft);color:var(--ink-soft);">46</span>
+    </div>
+    <div class="logrow">
+      <div>
+        <div class="t">Quality Assurance Manager</div>
+        <p class="why">INEX Group, Paphos city. Requires 3+ years' construction-specific QA/QC experience.</p>
+      </div>
+      <span class="chip bad">Not eligible</span>
+      <span class="score" style="background:var(--neutral-soft);color:var(--ink-soft);">38</span>
+    </div>
+  </div>
+
+  <!-- TIMELINE -->
+  <div class="section">
+    <h2>Nine days of runs</h2>
+    <p class="note">New vacancies surfaced per daily run, 2026-08-30 through 2026-09-07.</p>
+  </div>
+  <div class="timeline-wrap">
+    <p class="timeline-cap">3 vacancies on day one; two quiet weeks broken by Polis Chrysochous (day 6) and two Nicosia leads (day 8).</p>
+    <svg viewBox="0 0 720 190" width="100%" role="img" aria-label="Bar chart of new vacancies found per daily run, from 30 August to 7 September 2026: 3, 1, 0, 0, 0, 1, 0, 2, 0">
+      <line x1="40" y1="150" x2="700" y2="150" stroke="var(--line-strong)" stroke-width="1"/>
+      <!-- bars: max value 3 -> scale 36px per unit, baseline y=150 -->
+      <g class="mono" font-size="11">
+        <!-- day 30 -->
+        <rect x="52" y="42" width="46" height="108" rx="3" fill="var(--accent)"/>
+        <text x="75" y="34" text-anchor="middle" fill="var(--ink)">3</text>
+        <text x="75" y="168" text-anchor="middle">30</text>
+        <!-- day 31 -->
+        <rect x="126" y="114" width="46" height="36" rx="3" fill="var(--accent)"/>
+        <text x="149" y="106" text-anchor="middle" fill="var(--ink)">1</text>
+        <text x="149" y="168" text-anchor="middle">31</text>
+        <!-- day 01 -->
+        <rect x="200" y="148" width="46" height="2" rx="1" fill="var(--line-strong)"/>
+        <text x="223" y="140" text-anchor="middle">0</text>
+        <text x="223" y="168" text-anchor="middle">01</text>
+        <!-- day 02 -->
+        <rect x="274" y="148" width="46" height="2" rx="1" fill="var(--line-strong)"/>
+        <text x="297" y="140" text-anchor="middle">0</text>
+        <text x="297" y="168" text-anchor="middle">02</text>
+        <!-- day 03 -->
+        <rect x="348" y="148" width="46" height="2" rx="1" fill="var(--line-strong)"/>
+        <text x="371" y="140" text-anchor="middle">0</text>
+        <text x="371" y="168" text-anchor="middle">03</text>
+        <!-- day 04 -->
+        <rect x="422" y="114" width="46" height="36" rx="3" fill="var(--accent)"/>
+        <text x="445" y="106" text-anchor="middle" fill="var(--ink)">1</text>
+        <text x="445" y="168" text-anchor="middle">04</text>
+        <!-- day 05 -->
+        <rect x="496" y="148" width="46" height="2" rx="1" fill="var(--line-strong)"/>
+        <text x="519" y="140" text-anchor="middle">0</text>
+        <text x="519" y="168" text-anchor="middle">05</text>
+        <!-- day 06 -->
+        <rect x="570" y="78" width="46" height="72" rx="3" fill="var(--accent)"/>
+        <text x="593" y="70" text-anchor="middle" fill="var(--ink)">2</text>
+        <text x="593" y="168" text-anchor="middle">06</text>
+        <!-- day 07 (today, emphasized outline) -->
+        <rect x="644" y="148" width="46" height="2" rx="1" fill="none" stroke="var(--gold)" stroke-width="2"/>
+        <text x="667" y="140" text-anchor="middle" fill="var(--gold)">0</text>
+        <text x="667" y="168" text-anchor="middle" fill="var(--gold)">07·today</text>
+      </g>
+    </svg>
+  </div>
+
+  <footer>
+    <p><strong>Snapshot, not a live view.</strong> This page reflects Run 9 (2026-09-07) of the daily tracker. It won't update on its own — ask Claude to republish it after a future run, or read <span class="mono">reports/</span> and <span class="mono">data/vacancies.json</span> in the tracker's repo for anything more recent.</p>
+    <p>Sources cross-checked each run: Cyprus government/PSC vacancies, ΕΟΑ Πάφου, OKYPY, Paphos &amp; Polis Chrysochous municipalities, CYTA/EAC/water boards, universities, then private-sector backups. Most primary sites (gov.cy, psc.gov.cy, municipal and job-board domains) are blocked to direct page verification in this environment, so listings above are sourced via web search with cited links rather than independently re-read — noted per record above where it matters.</p>
+    <p class="kpmg">KPMG listings excluded so far: 0</p>
+  </footer>
+
+</div>
