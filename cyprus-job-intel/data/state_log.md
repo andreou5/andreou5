@@ -5,6 +5,24 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-08 — Record removed (user-requested): Polis Chrysochous Assistant Secretarial Officer
+
+User did their own deep check and also could not verify this vacancy —
+asked for it to be removed. Deleted `polis-chrysochous-assistant-secretarial-officer-20260904`
+outright rather than marked closed. Distinction from the ΕΟΑ Πάφου
+handling: that one was a confirmed real posting that later closed (kept
+as a closed historical record); this one was never confirmed to exist as
+an actual specific listing in the first place, across 5 days and multiple
+targeted checks (2026-09-04 through 2026-09-08) — nothing but the
+municipality's generic announcements page and unrelated staff-directory
+pages ever turned up. Removing a record that was never substantiated is
+not the same as erasing a verified finding, so this doesn't conflict with
+the tracker's own keep-closed-records rule.
+
+Total tracked: 14.
+
+---
+
 ## 2026-09-08 — Daily run (using the expanded source list)
 
 - **New (2):** both via Bazaraki, Paphos city, unverified eligibility,
