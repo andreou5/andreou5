@@ -5,6 +5,42 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-08 — Daily run (using the expanded source list)
+
+- **New (2):** both via Bazaraki, Paphos city, unverified eligibility,
+  posting dates from July 2026 (currency unconfirmed, not assumed stale):
+  - `vrissiana-hotel-paphos-administration-officer-20260908` — Vrissiana
+    Beach Hotel, Administration Officer.
+  - `stasis-estates-paphos-real-estate-admin-marketing-20260908` — A.N.
+    Stasis Estates PLC, Real Estate Administration and Marketing Officer
+    (admin + marketing combination — more MBA-relevant than pure admin).
+- **Corrected again — CING deadline.** Yesterday's cross-check confirmed
+  7 September; today's search instead states the deadline is 8 September
+  (today). Neither has been settled by a direct page read (cing.ac.cy
+  still blocked). Moved the deadline to today on the strength of today's
+  search also surfacing a genuinely new detail — a stated degree
+  requirement ("BA/BSc in any Biological Science, or related field such
+  as Zoology") — which reads as more complete/authoritative than
+  yesterday's pass. `eligibility` upgraded `unverified` → `likely_eligible`
+  accordingly. If today really is the last day, this is same-day-actionable.
+- **Enriched, not new:**
+  - GRS Executive Assistant: contact confirmed (Ioulia Ananikidou,
+    ioulia@grsrecruitment.com) — different GRS consultant than the
+    Administrative Officer/PA listing.
+  - GRS Office Administrator/Receptionist: fuller detail found — it's for
+    an expanding Paphos real-estate company, covering tax and compliance
+    processes as well as admin, not pure reception. `match_score` 60 → 64.
+- **Unchanged:** ΕΟΑ Πάφου (closed), AMC (closed), INEX QA Manager (not
+  eligible), Polis Chrysochous Municipal Engineer (not eligible), Polis
+  Chrysochous Assistant Secretarial Officer (still unverified — no new
+  information either way), GRS Administrative Officer/PA, Flexsy Office
+  Manager, INEX Office Administrator, GRS Latsi Project Manager
+  (not eligible) — all re-confirmed still live/unchanged.
+- Gazette re-checked: nothing new surfaced this run either.
+- Total tracked: 15.
+
+---
+
 ## 2026-09-07 — Source list expanded (user-requested): 6 new leads found
 
 User asked to add the Cyprus Official Gazette and expand the private-sector
