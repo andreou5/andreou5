@@ -5,6 +5,34 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-09 — Daily run
+
+- **Closed:** `cing-nicosia-laboratory-scientific-officer-20260906`. The
+  exact deadline was never settled (search-indexed content gave 7
+  September on one day, 8 September on another, no direct page read
+  either time) — but today is 9 September, after both candidate dates, so
+  the application window has closed under either reading. Closed on that
+  pragmatic basis rather than continuing to chase an unresolvable
+  historical fact.
+- **Updated:** `stasis-estates-paphos-real-estate-admin-marketing-20260908`
+  — found a specific carierista.com listing for A.N. Stasis Estates PLC in
+  Paphos, but titled "Recruitment and Administration Officer," not an
+  exact match to the Bazaraki-sourced title this record was built from.
+  Same employer/city, not confirmed to be the identical role. Swapped the
+  source_url to the real, specific carierista link (was a Bazaraki
+  category page) and flagged the title discrepancy rather than silently
+  resolving it either way.
+- **Enriched:** `grs-paphos-administrative-officer-pa-20260907` — found an
+  experience requirement (1+ year in a similar admin/PA role, preferred)
+  not previously recorded. Doesn't change the likely_eligible call.
+- **Unchanged, re-confirmed live:** all three GRS Paphos listings, Flexsy,
+  INEX Office Administrator, Vrissiana Beach Hotel, Biopsy Diagnosis. ΕΟΑ
+  Πάφου, AMC, INEX QA Manager, Municipal Engineer, GRS Latsi PM — no change.
+- No new vacancies found this run. Gazette and PSC/gov.cy checked, nothing new.
+- Total tracked: 14.
+
+---
+
 ## 2026-09-08 — Record removed (user-requested): Polis Chrysochous Assistant Secretarial Officer
 
 User did their own deep check and also could not verify this vacancy —
