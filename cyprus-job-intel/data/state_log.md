@@ -5,6 +5,32 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-10 — Daily run
+
+- **New (2):**
+  - `iro-papa-limassol-biomedical-scientist-20260910` — Biomedical Science
+    Centre Iro Papa, Limassol. A private diagnostic laboratory (biochemistry,
+    microbiology, immunology, molecular diagnostics) advertising a
+    biomedical scientist/medical laboratory role — same "exceptional
+    private sector, direct degree match" basis as AMC. Found a specific
+    Ergodotisi listing URL; exact title/requirements/deadline not yet
+    confirmed from snippets alone.
+  - `grs-paphos-office-administrator-accounting-firm-20260910` — GRS
+    Recruitment, Office Administrator for an established Accounting and
+    Audit firm in Paphos city. Document/compliance administration
+    (Tax Office, VAT, Social Insurance, Immigration submissions) — more
+    operational than the other GRS Paphos listings, scored accordingly.
+- **Unchanged:** all previously tracked records re-confirmed at same
+  status — the three top-scored GRS/Flexsy Paphos leads (72 each) still
+  live, Vrissiana Beach Hotel and Stasis Estates still open, ΕΟΑ Πάφου/AMC/
+  CING still closed, INEX QA Manager/Municipal Engineer/GRS Latsi PM still
+  not eligible.
+- Gazette/PSC/gov.cy checked, nothing new. Δήμος Πάφου/ΕΟΑ Πάφου/Δήμος
+  Πόλεως Χρυσοχούς checked, no repost or new vacancy found.
+- Total tracked: 16.
+
+---
+
 ## 2026-09-09 — Daily run
 
 - **Closed:** `cing-nicosia-laboratory-scientific-officer-20260906`. The
