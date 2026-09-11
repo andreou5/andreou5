@@ -5,6 +5,30 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-11 — Daily run
+
+- **New (2):**
+  - `vioiatriki-lemesou-clinical-lab-assistant-20260911` — Φ.Ν.Κ.Φ
+    Βιοιατρική Λεμεσού, Clinical Laboratory Assistant, Limassol.
+    Immediate/full-time per the listing title. Direct-field lab role,
+    same exceptional-private-sector basis as AMC and Iro Papa.
+  - `manpower-paphos-real-estate-sales-administrator-20260911` — Manpower
+    Cyprus, Real Estate Sales Administrator, Paphos city, for a major
+    property developer. CRM/sales-documentation admin role. Noted a
+    possibly-related second posting ("Real Estate Sales - Office
+    Administrator", CyprusWork job 107720) that wasn't logged separately —
+    not confirmed whether it's a duplicate or a distinct opening.
+- **Unchanged:** all 16 previously tracked records re-confirmed at same
+  status — the three top-scored GRS/Flexsy Paphos leads (72 each) still
+  live, Vrissiana/Stasis/Iro Papa/GRS accounting-firm listing still open,
+  ΕΟΑ Πάφου/AMC/CING still closed, INEX QA Manager/Municipal Engineer/GRS
+  Latsi PM still not eligible.
+- Gazette/PSC/gov.cy checked, nothing new. Δήμος Πάφου/ΕΟΑ Πάφου/Δήμος
+  Πόλεως Χρυσοχούς checked, no repost or new vacancy found.
+- Total tracked: 18.
+
+---
+
 ## 2026-09-10 — Daily run
 
 - **New (2):**
