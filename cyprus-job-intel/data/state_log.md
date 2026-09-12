@@ -5,6 +5,25 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-12 — Daily run
+
+- **New (1):** `avlida-hotel-paphos-hr-administrator-20260912` — Avlida
+  Hotel (part of the Stasis Estates group), Hotel Administrator/HR
+  Officer, Paphos city. Notable link: same corporate group already
+  tracked for a Real Estate Administration and Marketing Officer role at
+  a different property — logged as a separate record, not a duplicate.
+  No specific ad URL found (Bazaraki category page only), posted 7 July
+  2026, currency unconfirmed.
+- **Unchanged:** all 18 previously tracked records re-confirmed at same
+  status. GRS/Flexsy Paphos leads still live, ΕΟΑ Πάφου/AMC/CING still
+  closed, INEX QA Manager/Municipal Engineer/GRS Latsi PM still not
+  eligible.
+- Quiet Saturday run: gov.cy/PSC/Gazette and the municipalities showed
+  nothing dated to September 2026 beyond what's already tracked.
+- Total tracked: 19.
+
+---
+
 ## 2026-09-11 — Daily run
 
 - **New (2):**
