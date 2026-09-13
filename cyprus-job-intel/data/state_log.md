@@ -5,6 +5,18 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-13 — Daily run
+
+- **No changes.** All 19 tracked records re-confirmed at same status
+  (Avlida Hotel record moved `status` `new` → `open`, not a substantive
+  change). Every source checked returned the same postings already
+  tracked — no new listings, no closures, no reposts.
+- Quiet Sunday: gov.cy/PSC/Gazette and the municipalities showed nothing
+  dated to September 2026 beyond what's already tracked.
+- Total tracked: 19.
+
+---
+
 ## 2026-09-12 — Daily run
 
 - **New (1):** `avlida-hotel-paphos-hr-administrator-20260912` — Avlida
