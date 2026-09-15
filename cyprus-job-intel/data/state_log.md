@@ -5,6 +5,20 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-15 — Daily run
+
+- **No changes logged.** All 19 tracked records re-confirmed at same
+  status.
+- **Detected but not logged:** search indicated Manpower Cyprus posted a
+  new full-time Paphos listing ~1 day ago (~14 Sept), but two targeted
+  follow-up searches could not surface its title or any role detail —
+  only that it exists. Not logged as a record per the no-fabrication
+  rule (a tracking_id needs at least a real title). Worth a direct check
+  next run in case it resolves to something identifiable.
+- Total tracked: 19.
+
+---
+
 ## 2026-09-14 — Daily run
 
 - **No changes.** All 19 tracked records re-confirmed at same status.
