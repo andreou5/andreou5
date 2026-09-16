@@ -5,6 +5,31 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-16 — Daily run
+
+- **No changes logged.** All 19 tracked records re-confirmed at same
+  status. GRS Office Administrator/Receptionist re-confirmed live via a
+  fresh search hit on the same GRS listing URL.
+- **Detected but not logged (recurring):** the Manpower Cyprus Paphos
+  listing flagged yesterday still cannot be identified — search results
+  again return only "posted 1 day ago" with no title, employer, or role
+  detail, the same phrasing as yesterday's snippet. This repetition
+  suggests it may be a stale/cached search-index artifact rather than a
+  genuinely new posting each day; will keep watching but will stop
+  treating it as fresh news unless it resolves to real detail.
+- **Detected but not logged (conflicting data):** a Medicover Laboratory
+  Technologist – R&D role (ref 2026/11) surfaced, Nicosia-based —
+  potentially relevant given the biomedical/lab background. However
+  search results conflated it with a different, separately-numbered
+  posting (ref 2026/07, "Clinical Services") whose stated deadline
+  (May 23, 2026) has already passed. Given the conflicting refs and an
+  already-elapsed deadline in the same snippet, this reads as stale
+  indexed content, not a currently open vacancy. Not logged; will
+  re-check independently on a future run rather than guess.
+- Total tracked: 19.
+
+---
+
 ## 2026-09-15 — Daily run
 
 - **No changes logged.** All 19 tracked records re-confirmed at same
