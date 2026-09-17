@@ -5,6 +5,33 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-17 — Daily run
+
+- **No changes logged.** All 19 tracked records re-confirmed at same
+  status. All three tracked GRS Paphos listings (Administrative
+  Officer/PA #11205, Executive Assistant #10902, Office Administrator/
+  Receptionist #11538) re-confirmed live at their existing tracked URLs.
+- **Resolved: Medicover Laboratory Technologist – Clinical Services
+  (Nicosia).** Yesterday's ambiguous lead is now conclusively confirmed
+  expired — posted 24 April 2026, deadline 23 May 2026, both long past.
+  Dropped from the watch list; not logged as a record.
+- **Retired: Manpower Cyprus Paphos listing.** The vague "posted 1 day
+  ago" signal that recurred on 2026-09-15 and 2026-09-16 did not
+  reappear in today's search at all — three days of attempts produced
+  no title, employer, or detail. Treating this as never substantiated
+  and retiring it from the watch list rather than continuing to chase
+  it indefinitely.
+- **New but out of scope:** GRS Recruitment Office Manager listing
+  (#11599) surfaced in a Paphos-adjacent search, but the role is based
+  in Malta, not Cyprus. Not logged — outside the location scope
+  entirely.
+- **Re-confirmed (no action):** CING Nicosia Laboratory Scientific
+  Officer deadline verified as 8 September 2026, consistent with the
+  record's existing closed status (closed 2026-09-09 on elapsed time).
+- Total tracked: 19.
+
+---
+
 ## 2026-09-16 — Daily run
 
 - **No changes logged.** All 19 tracked records re-confirmed at same
