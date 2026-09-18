@@ -5,6 +5,32 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-18 — Daily run
+
+- **New: Luma Developers — Bookkeeper (Paphos, tier 2).** Real
+  estate-sector company in Paphos seeking a Bookkeeper. Logged
+  low-priority: the listing's requirements conflict internally between
+  a general "accounting, business, finance or related field" degree
+  and a specific "Bachelor's degree in Accounting/Finance" — a hard
+  requirement mismatch against the candidate's Biomedical Science/MBA
+  background if the stricter reading holds. Eligibility marked
+  unverified rather than assumed. No specific ad URL could be located
+  via search — only the general Bazaraki Paphos category page; flagged
+  as **NO SPECIFIC AD URL FOUND** in the record's notes.
+- **ΕΟΑ Πάφου — 14 Licensing Officer positions (checked, not logged):**
+  requires Architecture/Urban Planning, Civil Engineering, or Surveying
+  degrees specifically — no fit with the candidate's profile at all.
+  Not logged.
+- Two other vague leads surfaced (a real estate agency part-time
+  secretary, an F&B/events company secretary) but neither had an
+  identifiable employer name or specific posting — not logged, per the
+  no-fabrication rule.
+- All previously tracked records re-confirmed at same status; no
+  updates or closures.
+- Total tracked: 20 (19 previously tracked + 1 new).
+
+---
+
 ## 2026-09-17 — Daily run
 
 - **No changes logged.** All 19 tracked records re-confirmed at same
