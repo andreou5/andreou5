@@ -5,6 +5,39 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-19 — Daily run
+
+- **New: Aisa Financial Planning — Administration Assistant, Part Time
+  (Paphos city, tier 2).** A UK-based chartered financial planning
+  group with a confirmed new Paphos office (corroborated independently
+  via a Pals Magazine Cyprus article, separate from the job listing
+  itself). General admin/reception support role, no specific degree
+  stated — plausible MBA fit. Explicitly part-time. Real, specific
+  source URL found (Glassdoor listing). Logged `likely_eligible`,
+  match score 58.
+- **Updated: Luma Developers — Bookkeeper.** Found the specific ad URL
+  (cypruswork.com/job/102202/bookkeeper/) that was missing yesterday —
+  resolves the NO SPECIFIC AD URL FOUND flag. Employer/role description
+  match confirmed. The Accounting/Finance-degree requirement question
+  from yesterday still couldn't be resolved from this listing's
+  indexed text, so eligibility stays `unverified` and status stays
+  `logged_low_priority`.
+- **Checked, not logged:** a possible GRS Recruitment "Accountant"
+  role at an accounting-firm client surfaced, distinct in title from
+  the already-tracked "Office Administrator" role at what may be the
+  same or a different accounting-firm client — no specific URL found
+  to confirm it's a distinct listing, and "Accountant" itself would be
+  an off-profile role without a specific URL to verify further. Not
+  logged. A vague "MBS Homes" Paphos property-management admin lead
+  and a Medicover Laboratories blood-collection-operator role
+  (Limassol, already expired per its posted dates) were also checked
+  and not logged/not actioned.
+- All previously tracked records re-confirmed at same status; no
+  closures.
+- Total tracked: 21 (20 previously tracked + 1 new).
+
+---
+
 ## 2026-09-18 — Daily run
 
 - **New: Luma Developers — Bookkeeper (Paphos, tier 2).** Real
