@@ -5,6 +5,29 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-20 — Daily run (Sunday)
+
+- **No changes logged.** All 21 tracked records re-confirmed at same
+  status. GRS Office Administrator/Receptionist re-confirmed live via
+  search.
+- **Checked, not logged:** C.E. Papouis Hotels Ltd receptionist
+  positions in Paphos (entry-level, no degree needed, training
+  provided) — well below the candidate's qualification level and the
+  posting itself reads as stale (dated February 2026). A generic
+  4-star hotel "Operations Manager" lead had no employer name
+  attached. Neither logged.
+- **Re-checked, inconclusive:** tried to confirm current status of the
+  Avlida Hotel HR Administrator and Vrissiana Hotel Administration
+  Officer listings (both currently `open`/`unverified`) — search
+  surfaced only the hotels' own booking/review pages, no job-posting
+  confirmation either way. Left unchanged rather than guessed at.
+  ΕΟΑ Πάφου's 3-position and 14-position listings both resurfaced in
+  search but are already tracked/excluded (former closed, latter no
+  profile fit).
+- Total tracked: 21.
+
+---
+
 ## 2026-09-19 — Daily run
 
 - **New: Aisa Financial Planning — Administration Assistant, Part Time
