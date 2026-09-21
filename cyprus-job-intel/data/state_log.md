@@ -5,6 +5,25 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-21 — Daily run
+
+- **New: Luma Developers — Office Administrator (Paphos city, tier 2).**
+  A distinct listing from the already-tracked Luma Developers
+  Bookkeeper role — different title, different requirements, its own
+  specific URL (cypruswork.com/job/110797/). Full-time, entry-level,
+  general office-admin/client-coordination role. Requirements:
+  Bachelor's degree or higher, advanced English — a clean fit for a
+  Biomedical Science/MBA background, unlike the Bookkeeper role's
+  accounting-specific ambiguity. Logged `likely_eligible`, score 68.
+- Recurring vague leads (the licensed real estate agency part-time
+  secretary) resurfaced again with no employer name attached — still
+  not logged, consistent with every prior day this has appeared.
+- All 21 previously tracked records re-confirmed at same status; no
+  closures.
+- Total tracked: 22 (21 previously tracked + 1 new).
+
+---
+
 ## 2026-09-20 — Daily run (Sunday)
 
 - **No changes logged.** All 21 tracked records re-confirmed at same
