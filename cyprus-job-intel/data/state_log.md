@@ -5,6 +5,22 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-22 — Daily run
+
+- **No changes logged.** All 22 tracked records re-confirmed at same
+  status.
+- **Checked, not logged:** four "front office" roles surfaced on
+  CyprusWork (Minthis Front Office Agent, Almyra Hotel Manager, AZIA
+  Resort Front Office Manager, Avlida Hotel/A.N. Stasis Estates Front
+  Office Manager) — all hospitality front-desk/reservations
+  supervisory roles requiring hotel-operations experience specifically,
+  not general office administration. No fit with the candidate's
+  profile; not logged. ΕΟΑ Πάφου's careers page also surfaced a
+  Technical Engineer listing — engineering-specific, no fit.
+- Total tracked: 22.
+
+---
+
 ## 2026-09-21 — Daily run
 
 - **New: Luma Developers — Office Administrator (Paphos city, tier 2).**
