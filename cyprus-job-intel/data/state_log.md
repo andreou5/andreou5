@@ -5,6 +5,24 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-23 — Daily run
+
+- **No changes logged.** All 22 tracked records re-confirmed at same
+  status. GRS Executive Assistant, GRS Office Administrator/Receptionist,
+  Flexsy Office Manager, Luma Developers Office Administrator, and
+  Aisa Financial Planning's Administration Assistant all re-confirmed
+  live via search.
+- **Caught and discarded a source-contamination false positive:** a
+  search for Cyprus PSC/Gazette vacancies returned an article about a
+  "PSC announces massive govt recruitment... 700 vacancies," but the
+  underlying source (peopledaily.digital, referencing the "MyGov
+  newspaper") is Kenyan, not Cypriot — the Public Service Commission
+  name collision misled the search. Verified and discarded rather than
+  logged.
+- Total tracked: 22.
+
+---
+
 ## 2026-09-22 — Daily run
 
 - **No changes logged.** All 22 tracked records re-confirmed at same
