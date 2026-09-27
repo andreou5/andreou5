@@ -5,6 +5,20 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-27 — Daily run (Sunday)
+
+- **New: GRS Recruitment — Office Administrator, Larnaca (logged low
+  priority).** Ordinary private-sector admin role outside Paphos/Polis
+  Chrysochous — per SKILL.md Section 2, not promoted to the daily
+  report but logged so nothing is lost. Supports company teams and the
+  Director directly; no specific degree requirement stated. Match
+  score 44, `likely_eligible`, `logged_low_priority`.
+- All 22 previously tracked records re-confirmed at same status; no
+  closures.
+- Total tracked: 23 (22 previously tracked + 1 new).
+
+---
+
 ## 2026-09-26 — Daily run (Saturday)
 
 - **No changes logged.** All 22 tracked records re-confirmed at same
