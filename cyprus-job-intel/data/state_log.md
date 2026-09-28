@@ -5,6 +5,21 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-28 — Daily run
+
+- **No changes logged.** All 23 tracked records re-confirmed at same
+  status. GRS Executive Assistant and Office Administrator/Receptionist
+  re-confirmed live via search.
+- The Kenyan PSC source-contamination pattern (first caught 2026-09-23)
+  recurred again — a second Kenya-specific article ("Opportunities for
+  Young Kenyans") corroborates it's a persistent search-index mixing
+  issue with the "PSC" name, not a Cyprus signal. Discarded again, no
+  further investigation needed unless it starts surfacing genuine
+  Cyprus-specific detail.
+- Total tracked: 23.
+
+---
+
 ## 2026-09-27 — Daily run (Sunday)
 
 - **New: GRS Recruitment — Office Administrator, Larnaca (logged low
