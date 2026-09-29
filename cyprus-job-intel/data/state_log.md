@@ -5,6 +5,18 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-29 — Daily run
+
+- **No changes logged.** All 23 tracked records re-confirmed at same
+  status. GRS Office Administrator/Receptionist (Paphos) and Office
+  Administrator (Larnaca) both re-confirmed live via search.
+- **Checked, not logged:** ΕΟΑ Πάφου posted a new "Workers & Drivers"
+  announcement (Εργατών & Οδηγών για ΣΕΔΑ.ΠΑ) — manual labour roles,
+  no fit with the candidate's profile. Not logged.
+- Total tracked: 23.
+
+---
+
 ## 2026-09-28 — Daily run
 
 - **No changes logged.** All 23 tracked records re-confirmed at same
