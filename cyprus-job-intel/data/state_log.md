@@ -5,6 +5,25 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-30 — Daily run
+
+- **Container respin noted:** at run start, the local git branch had
+  been reset to an unrelated commit (819fc24, "Revise README...") not
+  part of this project's tracked history — a fresh container checkout
+  that landed on the wrong ref. Recovered by hard-resetting to
+  `origin/claude/cyprus-job-intel-ag6t5j` (e268040, the correct,
+  up-to-date history); no data was lost, working tree was clean before
+  the reset.
+- **No changes logged.** All 23 tracked records re-confirmed at same
+  status. GRS Executive Assistant and Office Administrator/Receptionist
+  re-confirmed live via search.
+- The Kenyan PSC source-contamination false positive recurred a third
+  time (same peopledaily.digital article) — still discarded, no new
+  investigation needed.
+- Total tracked: 23.
+
+---
+
 ## 2026-09-29 — Daily run
 
 - **No changes logged.** All 23 tracked records re-confirmed at same
