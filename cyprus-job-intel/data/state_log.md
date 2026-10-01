@@ -5,6 +5,27 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-01 — Daily run
+
+- **New: GRS Recruitment — Polish-Speaking Corporate Administrator
+  (Paphos city, logged low priority).** Strong location and stated
+  salary (€18,000–€24,000/yr), but fluent Polish is listed as an
+  essential requirement — not met by the candidate's profile despite
+  otherwise good fit. Marked `not_eligible`, score 40, logged for
+  completeness rather than promoted.
+- **Re-confirmed, no action:** the CING Mouse Facility Laboratory
+  Scientific Officer listing's reference code (360426) and deadline
+  (8 September 2026) are now explicitly confirmed by a direct CING
+  event-page search — consistent with the already-closed tracked
+  record; no change needed.
+- The Kenyan PSC source-contamination false positive recurred again
+  (fourth occurrence) — still discarded.
+- All 23 previously tracked records re-confirmed at same status; no
+  closures.
+- Total tracked: 24 (23 previously tracked + 1 new).
+
+---
+
 ## 2026-09-30 — Daily run
 
 - **Container respin noted:** at run start, the local git branch had
