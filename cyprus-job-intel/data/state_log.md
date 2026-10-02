@@ -5,6 +5,25 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-02 — Daily run
+
+- **No changes logged.** All 24 tracked records re-confirmed at same
+  status. GRS Office Administrator/Receptionist (Paphos) and
+  Administrative Officer/PA re-confirmed live via search.
+- **PSC Official Gazette now yielding genuine, specific hits** (a
+  first for this run): Gazette 5887 (11/09/2026, closing 02/10/2026) —
+  Senior Electrical Engineer, Department of Electromechanical
+  Services; Gazette 5890 (25/09/2026, closing 16/10/2026) — Senior
+  Environmental Officer (Department of Environment) and Chief
+  Electrical Engineer (Department of Electromechanical Services). All
+  three are engineering/environmental-science specific roles with no
+  fit for the candidate's profile. Not logged, but worth noting the
+  Gazette source is now producing real, dated, Cyprus-specific results
+  rather than generic pages.
+- Total tracked: 24.
+
+---
+
 ## 2026-10-01 — Daily run
 
 - **New: GRS Recruitment — Polish-Speaking Corporate Administrator
