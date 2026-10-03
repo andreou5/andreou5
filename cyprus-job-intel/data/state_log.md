@@ -5,6 +5,34 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-03 — Daily run (Saturday)
+
+- **New: PSC — Βοηθός Φορολογίας (Assistant Tax Officer), Tax
+  Department (government/semi-government elsewhere tier).** First
+  genuine Official Gazette/PSC announcement confirmed directly via the
+  PSC's own "current announcements" page (Gazette 5891, 02/10/2026,
+  notification 1733, closing 23/10/2026) rather than a generic search
+  result or the recurring Kenyan false positive — a real milestone for
+  this source. Could not confirm the exact degree-field requirement;
+  similar Cyprus tax-department "Assistant" posts typically accept a
+  recognized university degree in Finance/Economics/Business/Public
+  Administration/Accounting/Law (plausible MBA fit), but this is an
+  inference, not confirmed, so eligibility marked unverified. Logged
+  with score 50, status `new`.
+- **Checked, not logged:** a GRS Office Administrator listing in
+  Nicosia (ref #11689, retail/commercial admin, salary
+  €20,800–€22,100/yr) was found, but its own stated application
+  deadline (30 September 2026) has already passed as of today — likely
+  filled or closed, so not logged as an open opportunity.
+- Other PSC Gazette 5891 entries (First Water Officer, Senior Energy
+  Officer, First Postal Inspector) are field-specific with no profile
+  fit. Not logged.
+- All 24 previously tracked records re-confirmed at same status; no
+  closures.
+- Total tracked: 25 (24 previously tracked + 1 new).
+
+---
+
 ## 2026-10-02 — Daily run
 
 - **No changes logged.** All 24 tracked records re-confirmed at same
