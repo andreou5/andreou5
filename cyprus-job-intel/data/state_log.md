@@ -5,6 +5,24 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-04 — Daily run (Sunday)
+
+- **No changes logged.** All 25 tracked records re-confirmed at same
+  status. GRS Office Administrator/Receptionist (Paphos) re-confirmed
+  live via search.
+- **Checked, not logged:** biobank.cy's "Special Scientist —
+  Diagnostics Laboratory Manager" and "Special Scientist — Molecular
+  Biologist" positions surfaced in search with misleading "posted 2
+  days ago" framing, but direct verification showed both actually
+  expired 31 May 2025 — long stale, not genuinely new. Not logged.
+- The PSC Tax Assistant record's degree requirement is still
+  unconfirmed from search alone (generic "degree in one of several
+  specified subject areas" language found, no specifics) — left as
+  `unverified`, no change.
+- Total tracked: 25.
+
+---
+
 ## 2026-10-03 — Daily run (Saturday)
 
 - **New: PSC — Βοηθός Φορολογίας (Assistant Tax Officer), Tax
