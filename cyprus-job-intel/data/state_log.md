@@ -5,6 +5,33 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-05 — Daily run
+
+- **No changes logged.** All 25 tracked records re-confirmed at same
+  status.
+- **Source breakthrough:** shso.org.cy (OKYPY/State Health Services
+  Organisation — confirmed real domain per SKILL.md) is now surfacing
+  genuine, dated job-position pages in search for the first time,
+  rather than nothing or stale results. Two leads found this run:
+  - **Hospital Laboratory Officer x9 (Λειτουργών Νοσοκομειακού
+    Εργαστηρίου), including a Paphos-district exam-results page** —
+    highly relevant to the candidate's biomedical background, but the
+    recruitment has already progressed past applications to written
+    exams with results published — the application window is long
+    closed. Not logged as an open opportunity; worth watching shso.org.cy
+    for the next such cycle.
+  - **Assistant Secretarial Officer (Βοηθός Γραμματειακός Λειτουργός),
+    posted 14/08/2026, covering Ammochostos/Larnaca/Limassol/Nicosia/
+    Paphos, €16,368.08/yr** — real and dated, but the stated
+    qualification is a *secondary*-school diploma, not a university
+    degree; a clear overqualification/grade mismatch for an MBA
+    holder, and written exams for several districts have already
+    concluded (results published), so the application window has
+    closed regardless. Not logged.
+- Total tracked: 25.
+
+---
+
 ## 2026-10-04 — Daily run (Sunday)
 
 - **No changes logged.** All 25 tracked records re-confirmed at same
