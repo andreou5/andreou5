@@ -5,6 +5,20 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-06 — Daily run
+
+- **No changes logged.** All 25 tracked records re-confirmed at same
+  status.
+- **Checked, not logged:** new shso.org.cy postings (Storage/Orders
+  Manager, Civil Engineer, 3× Medical Officers) are all field-specific
+  with no profile fit. An "Administrative Officer (legal background)"
+  lead initially looked promising but turned out to be ΕΟΑ Λεμεσού
+  (Limassol), not ΕΟΑ Πάφου — wrong organisation, wrong location, and
+  requires a law degree specifically. Not logged.
+- Total tracked: 25.
+
+---
+
 ## 2026-10-05 — Daily run
 
 - **No changes logged.** All 25 tracked records re-confirmed at same
