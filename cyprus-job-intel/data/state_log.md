@@ -5,6 +5,25 @@ Newest entries at the top.
 
 ---
 
+## 2026-10-07 — Daily run
+
+- **New: GRS Recruitment — Appointment Setter & Administration
+  (Part-Time), Limassol (logged low priority).** Ordinary private-
+  sector role outside Paphos/Polis Chrysochous, posted 5 October 2026.
+  Fluent Russian listed as mandatory alongside English — a hard
+  language requirement not confirmed to be met, so marked
+  `not_eligible`. Also low salary (€10,000–€15,000/yr) and part-time.
+  Score 34, logged for completeness, not promoted.
+- **Checked, not logged:** the biobank.cy "Diagnostics Laboratory
+  Manager" lead resurfaced with the same misleading "posted 2 days
+  ago" framing already debunked on 2026-10-04 (confirmed expired May
+  2025) — not re-investigated, treated as the same stale listing.
+- All 25 previously tracked records re-confirmed at same status; no
+  closures.
+- Total tracked: 26 (25 previously tracked + 1 new).
+
+---
+
 ## 2026-10-06 — Daily run
 
 - **No changes logged.** All 25 tracked records re-confirmed at same
